@@ -19,6 +19,9 @@ contentDir = "content"
 		endLevel = 4 # ToC ends at H4
 		ordered = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [menu]
 [[menu.main]]
