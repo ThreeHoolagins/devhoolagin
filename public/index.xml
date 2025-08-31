@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on DevHoolagin</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on DevHoolagin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Aug 2025 18:11:02 -0600</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog 1: Welcome to DevHoolagins</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 30 Aug 2025 18:11:02 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+      <description>&lt;p&gt;Welcome new reader! I am not too familiar with what I want to do with this blog, so I&amp;rsquo;ll keep things short and hopefully remotely interesting.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hello! I am Caleb Cunningham, A software developer/engineer of 4 years, and someone who has more recently gotten into &amp;ldquo;&amp;ldquo;self improvement&amp;rdquo;&amp;rdquo; in terms of trying to excel at my job, and generally try to make myself more interested in programming and related topics than I may be naturally.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
