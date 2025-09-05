@@ -79,7 +79,7 @@ contentDir = "content"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/ThreeHoolagins"
 
 [[params.socialIcons]]
 name = "linkedin"
