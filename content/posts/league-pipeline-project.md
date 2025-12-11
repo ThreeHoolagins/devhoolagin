@@ -1,10 +1,10 @@
 +++
 date = '2025-09-04T16:00:00-06:00'
-title = 'Blog 2: Riot API Utility Pipeline'
+title = 'Tinkerings 1: Riot API Utility Pipeline'
 draft = false
 +++
 
-Welcome reader! Blog post 2 and its a recap of a previous code exploration I began way back in January of 2024, and took a couple iterations to actually complete. This is my first full-size function personal project, and something that has spun off a lot more work in my personal project area.
+Welcome reader! This is my second post and its a recap of a previous code exploration I began way back in January of 2024, and took a couple iterations to actually complete. This is my first full-size function personal project, and something that has spun off a lot more work in my personal project area.
 
 # The Pitch
 You and your friends play League of Legends, an online MOBA,  and you've been experimenting with playing ranked recently. Coincidentally you also want something to put on your resume. Why not post everyone's rank in order in your personal league discord server? 
