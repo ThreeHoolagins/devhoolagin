@@ -38,11 +38,11 @@ This was the extent of my abstraction. There were a couple methods to handle ann
 
 For this, I just used the python requests standard library, and actually got it from riot api to discord.
 
-![Picture of the first ranked race bot post on discord, with Shock as the only placed one.](../rankedRaceBotFirstPost.PNG)
+![Picture of the first ranked race bot post on discord, with Shock as the only placed one.](../rankedRaceBotFirstPost.png)
 
 Tada! To go into how this worked abstractly, check below.
 
-![Diagram depicting original messageGroup process](../rankedMessageDiagram.PNG)
+![Diagram depicting original messageGroup process](../rankedMessageDiagram.png)
 
 How did I run this to post daily you might ask? What webserver? What AWS, Vercel, GCP config? Well, the answer is simpler than you may think. I have a windows desktop I rarely turn off, and I simply scheduled a windows task to post every Tuesday, Thursday, and Saturday in the morning to keep the heat up! +1 for using your already available tools.
 
