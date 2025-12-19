@@ -9,6 +9,11 @@ ignoreErrors = ["additional-script-loading-error"]
 theme = "hugo-blog-awesome"
 contentDir = "content"
 
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-HTBBR0R279'
+
 [markup]
   [markup.highlight]
     noClasses = false
