@@ -71,11 +71,12 @@ contentDir = "content"
   # By default (or if nothing is specified), summary is used.
 
 [params.author]
+  # TODO: commission official art to use instead of using ai image
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "DevHoolagin"
-  name = "Caleb C"
-  description = "A small site with a few of my thoughts and explorations. Hoping to post more in Winter 2025."
+  name = "Caleb Cunningham"
+  description = "A small site with a growing collection of my thoughts and tinkerings. Thank you for reading! If you have any strong thoughts or feelings, feel free to email me at cbcunningham20@gmail.com."
 
 [[params.socialIcons]]
 name = "github"
