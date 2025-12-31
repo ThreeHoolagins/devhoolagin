@@ -32,17 +32,17 @@ When approaching this again in January of 2025 I had some new motivators. The ne
 
 I choose python because python is easy to use/learn, and because I could just run it on my computer. I made a full working program, with a lot of assumptions, and a simple structure. A runner file, to take care of doing all the annoying pieces of taking console input and formatting that properly, and a separate file for doing the actual work. 
 
-![A diagram displaying the above statement for simplicity](../runnerDiagram.png)
+![A diagram displaying the above statement for simplicity](/runnerDiagram.png)
 
 This was the extent of my abstraction. There were a couple methods to handle annoying things, and since this was going to run as a job, instead of trying to handle the rate limiting smartly, I just added a delay between calls that would ensure I never hit the rate limit. After all, this is not a latency sensitive project, as it just needs to run once a day.
 
 For this, I just used the python requests standard library, and actually got it from riot api to discord.
 
-![Picture of the first ranked race bot post on discord, with Shock as the only placed one.](../rankedRaceBotFirstPost.png)
+![Picture of the first ranked race bot post on discord, with Shock as the only placed one.](/rankedRaceBotFirstPost.png)
 
 Tada! To go into how this worked abstractly, check below.
 
-![Diagram depicting original messageGroup process](../rankedMessageDiagram.png)
+![Diagram depicting original messageGroup process](/rankedMessageDiagram.png)
 
 How did I run this to post daily you might ask? What webserver? What AWS, Vercel, GCP config? Well, the answer is simpler than you may think. I have a windows desktop I rarely turn off, and I simply scheduled a windows task to post every Tuesday, Thursday, and Saturday in the morning to keep the heat up! +1 for using your already available tools.
 
