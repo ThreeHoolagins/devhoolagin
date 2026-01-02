@@ -1,5 +1,5 @@
 > [!WARNING]
-> Page under construction- not for average eyes
+> Page under construction
 
 # Devhoolagin
 
