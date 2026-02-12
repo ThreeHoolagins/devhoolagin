@@ -1,5 +1,5 @@
 +++
-date = '2026-02-11T12:00:00-06:00'
+date = '2026-02-09T12:00:00-06:00'
 title = "Tinkerings 2: How to Hate Your Pi"
 draft = false
 +++
