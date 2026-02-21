@@ -42,7 +42,7 @@ This go around, hosting basically a website on my raspberry pi, this was fire. E
 
 And even more based than that, the integration with 5etools via [plutonium](https://wiki.tercept.net/en/Plutonium), my favorite dnd ease of use website is bonkers good. Now, just to get things into my game I don’t have to spend 5 minutes per npc entering information, and when using non-srd classes I can just import them. And before anyone gets on me for not paying for the Roll20 modules, I’ve already bought literally all of the dnd 5e books excluding a few adventures. I just like that it makes doing things online easier. Look at this! How cool!
 
-![Plutonium Importer](/devhoolagin/plutonium.pong)
+![Plutonium Importer](/devhoolagin/plutonium.png)
 
 # Conclusion
 I was planning on having more things to talk about, but honestly Iv'e been busy with the job search. Things left I want to put on here include a website and a reverse proxy to make external access to my local network easier, as I finally have a domain attached to my IP. But you don't get to have that reader, remeber, bounderies!
