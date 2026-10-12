@@ -74,7 +74,7 @@ If you’re still reading at this point reader, I’m rather done with the tech 
 
 If you know anyone in solar or EV technology willing to take on or just chat with a 5-year software dev with a computer engineering degree and an interest in real electronic systems and sustainability, hmu (cbcunningham20@gmail.com)! I’d love to talk during this career pivot.
 
--Hool
+\- Hool
 
 P.S. I’m planning on posting a bit more while I’m unemployed with some very dev projects and some only dev adjacent posts. Look forward to it reader!
 
